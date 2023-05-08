@@ -4,7 +4,7 @@
  * _memset - fill a block of memory with a specific value
  * @s: starting address of memory to be filled
  * @b: the desired value
- * @: number of bytes to be changed
+ * @n: number of bytes to be changed
  * Return: changed array with new value of n bytes
  */
 
